@@ -17,7 +17,7 @@ lerna-debug.log*
 # Uncomment the ones you want to ignore:
 # package-lock.json  # npm
 # yarn.lock          # yarn
-pnpm-lock.yaml     # pnpm
+pnpm-lock.yaml
 # bun.lockb          # bun
 
 # Package manager cache
